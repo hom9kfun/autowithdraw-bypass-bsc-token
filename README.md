@@ -10,10 +10,10 @@ This program will help you withdraw your funds from the automatic withdrawal tha
 
 Before running the program, fill in the `config.json` file as follows:
 
-- **`private_key_account`**: The private key of the wallet from which you want to withdraw the stake.
+- **`private_key_account`**: The private key of the wallet from which you want to withdraw the tokens.
 - **`private_key_donor`**: The private key of the donor wallet from which BNB will be debited for transactions.
-- **`contract_token_address`**: The contract address of the token that is in the stake (e.g. CAKE Token).
-- **`recipient_address`**: The recipient address to which the tokens from the stake will be withdrawn.
+- **`contract_token_address`**: The contract address of the token(e.g. CAKE Token).
+- **`recipient_address`**: The recipient address to which the tokens will be withdrawn.
 - **`transfer_gas_price`**: Fee amount (in Gwei) for a token transfer transaction (default: 1 Gwei).
 - **`rpc_url`**: it is recommended to change the address of the rpc node only if there are any problems with the default one
 
