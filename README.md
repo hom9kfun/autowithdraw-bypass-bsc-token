@@ -1,8 +1,8 @@
-# [Читать на русском](https://github.com/hom9kfun/autowithdraw-bypass-bsc-token/blob/main/README_RU.md)
+# [Читать на русском](https://github.com/hom9kfun/autowithdraw-bypass-bsc-token/blob/main/READMEru.md)
 
 # 🛡️ Program for Bypassing Automatic Withdrawal of Funds from Hacked Wallets
 
-This program will help you withdraw your funds from the automatic withdrawal that hackers set up on hacked wallets. If you replenish funds for the commission and they are instantly withdrawn to another wallet, leaving you no time to act - this script bypasses such situations, charging only 10% of the total staking withdrawal amount. In the future, if the program is in demand, I plan to reduce the commission to 1%.
+This program will help you withdraw your funds from the automatic withdrawal that hackers set up on hacked wallets. If you replenish funds for the commission and they are instantly withdrawn to another wallet, leaving you no time to act - this script bypasses such situations, charging only 10% of the total withdrawal amount. In the future, if the program is in demand, I plan to reduce the commission to 1%.
 
 ## ⚙️ Getting Started
 
