@@ -23,12 +23,15 @@
 
 ```json
 {
-  "private_key_account": "ВашПриватныйКлюч",
-  "private_key_donor": "ПриватныйКлючДонора",
-  "contract_token_address": "контракт_адрес_монеты",
-  "recipient_address": "адрес_для_получения",
-  "transfer_gas_price": "1 gwei",
-  "rpc_url": "https://rpc-bsc.48.club"
+    "private_key_account": "your_account_key",
+    "private_key_donor": "your_donor_key",
+    "contract_token_address": "your_contract_token_address",
+    "recipient_address": "your_recipient_address",
+    "transfer_gas_price": "1 gwei",
+    "rpc_url": "https://bsc-dataseed4.ninicoin.io",
+    "setbalancemanualy": false,
+    "manual_balance": "1",
+    "decimals": 18
 }
 ```
 
