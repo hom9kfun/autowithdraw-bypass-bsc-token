@@ -1,5 +1,9 @@
 # [Читать на русском](https://github.com/hom9kfun/autowithdraw-bypass-bsc-token/blob/main/READMEru.md)
 
+# update 08.06.2025
+
+providers have added a block list of addresses from which funds are often withdrawn. Therefore, most wallets are no longer suitable for this version of the bypass, the new version has already been made and is working in the same mode, you can purchase it in my [@nevadalzt](https://t.me/nevadalzt), the price for stake/token bsc is $ 250 with the source code, the golang programming language
+
 # update 06.11.2024
 +added a balance check for 0 value, i.e. if the balance is 0, the script will not send a transaction
 
